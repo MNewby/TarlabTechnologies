@@ -23,8 +23,8 @@ public class SelfDestruct : Part
 			if (GUILayout.Button("DESTROY",mySty,GUILayout.ExpandWidth(true)))//GUILayout.Button is "true" when clicked
 			{	
 			this.explode();
-			this.onPartDestroy ();
-			this.Die ();
+			this.onPartDestroy();
+			this.Die();
 			}
 		GUILayout.EndVertical();
  
