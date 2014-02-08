@@ -2,14 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
- 
 using UnityEngine;
 
 /*
 This module will create a new GUI window and button, on button press the part will explode, close the GUI, and be removed.
 */
 public class SelfDestruct : Part
-	{
+{
 		protected Rect windowPos;
  
 		private void WindowGUI(int windowID)
@@ -57,4 +56,4 @@ public class SelfDestruct : Part
 			RenderingManager.RemoveFromPostDrawQueue(3, new Callback(drawGUI)); //close the GUI
    		}
  
-	}
+}

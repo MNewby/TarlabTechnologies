@@ -17,6 +17,6 @@ public class TestModule : PartModule
     public override void OnStart(StartState state)
     {
         // Add stuff to the log
-        print("something silly to the log");
+        print("MODULE TEST MESSAGE");
     }
 }
