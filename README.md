@@ -10,6 +10,7 @@ Mirrors of different sizes
 Mirror assemblies:  Tubes, Secondary Mirrors, Holders, Arms
 
 Different Wavelengths:
+    (Rename to Kerbal-sounding names?)
     Gamma
     X-Ray
     UV
@@ -18,7 +19,7 @@ Different Wavelengths:
     Microwave
     Radio
 
-    Neutrino???  Kertrinos???
+    Neutrino???  Kertrinos???  
 
 
 Detectors:
